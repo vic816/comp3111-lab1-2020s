@@ -3,4 +3,4 @@ ID: 20599071
 
 <img src="screenshot.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 12px;" />
